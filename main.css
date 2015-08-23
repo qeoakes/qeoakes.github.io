@@ -9,7 +9,7 @@ padding: 5px;
 }
 
 .panel {
-	position:absolute;
+	position:relative;
 	right:0px;
 	width:85%;
 	padding: 5px;
