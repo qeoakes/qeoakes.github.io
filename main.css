@@ -1,3 +1,8 @@
 .sidebar {
 width: 100%;
 }
+
+.portrait img {
+	width:10%;
+	height:auto;
+}
