@@ -1,8 +1,16 @@
 .sidebar {
 width: 15%;
+padding: 5px;
 }
 
 .portrait img {
 	width:100%;
 	height:auto;
+}
+
+.panel {
+	position:absolute;
+	right:0px;
+	width:85%;
+	padding: 5px;
 }
