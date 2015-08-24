@@ -2,3 +2,9 @@
 width:20%;
 height:auto;
 }
+
+.list ul {
+	list-style-type:none;
+	padding:0;
+	margin:0;
+}
